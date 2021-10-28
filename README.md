@@ -1,0 +1,1 @@
+# openCv-yoramida-avtomobillarni-aniqlash
